@@ -12,6 +12,16 @@ I'm Melanie, Full Stack developer from Lille, France 📍
 
 ## 🛠 Skills
 
+### Front-end
+![Html5](media/front/HMTL.svg)
+![Css3](media/front/CSS.svg)
+![Bootstrap](media/front/BSTRAP.svg)
+![Javascript](media/front/JS.svg)
+![TypeScript](media/front/TS.svg)
+### Back-end
+### Design Tools
+### Database
+### Workspace Setup
 
 ## 
 

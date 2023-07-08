@@ -55,9 +55,9 @@ I'm Melanie, Full Stack developer from Lille, France
 
 #
 
-## Team CDA💗
+## Team CDA 👽
 
-[<span style="color:#ff99c5">@anis595</span>](https://github.com/anis595) | [@Ludoph](https://github.com/Ludoph) | [@Nahben](https://github.com/Nahben) | [@YassineElazzati](https://github.com/YassineElazzati) 
+[ANIS](https://github.com/anis595) | [LUDO](https://github.com/Ludoph) | [NAHIM LE BOSS](https://github.com/Nahben) | [YASSINE](https://github.com/YassineElazzati) 
 --- | --- | --- | ---
 ![@anis595](https://avatars.githubusercontent.com/u/117355844?s=150&v=1) | ![Ludoph](https://avatars.githubusercontent.com/u/129503345?s=150&v=1) | ![Nahben](https://avatars.githubusercontent.com/u/23336698?s=150&v=1) | ![YassineElazzati](https://avatars.githubusercontent.com/u/131854031?s=150&v=1)
 

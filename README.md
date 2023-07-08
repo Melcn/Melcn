@@ -1,21 +1,21 @@
 ![Cover](media/bannerqueen.png)
 
 
-# Hey there! 
+# <span style="color:#ff99c5"> Hey there! </span>
 
-
-I'm Melanie, Full Stack developer from Lille, France 📍
+<div style="color:#347551">
+I'm Melanie, Full Stack developer from Lille, France 
 
 🔭 I fell in love with the Java universe, so I decided to deepen my learning journey to become a better developer
 
 🌱 I'm about to start a new training program with Quarkus, Docker, AWS, and PowerBI. I'm excited to embark on this new adventure!
+</div>
 
 
+##  <span style="color:#ff99c5">🛠 Skills </span>
 
-## 🛠 Skills
 
-
-#### ⚡ Stuff I know 
+####  <span style="color:#ff99c5">⚡ Stuff I know </span>
 
 
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@ I'm Melanie, Full Stack developer from Lille, France 📍
 
 
 
-#### 🤔 Stuff To Improve
+####  <span style="color:#ff99c5">🤔 Stuff To Improve </span>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

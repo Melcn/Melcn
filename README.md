@@ -1,4 +1,4 @@
-![Cover](media/bannerqueen.png)
+![Cover](media/princessbanner.png)
 
 
 # <span style="color:#ff99c5"> Hey there! </span>

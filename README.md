@@ -48,9 +48,11 @@ I'm Melanie, Full Stack developer from Lille, France
 
 ####  <span style="color:#ff99c5">🤔 Stuff To Improve </span>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-2C2255?style=for-the-badge&logo=quarkus&logoColor=pink)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-1572B6?style=for-the-badge&logo=jira&logoColor=white)
+![LiquiBase](https://img.shields.io/badge/LiquiBase-D83B01?style=for-the-badge&logo=Liquibase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 

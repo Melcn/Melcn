@@ -4,7 +4,7 @@
 # <span style="color:#ff99c5"> Hey there! </span>
 
 
-I'm Melanie, Full Stack developer from Lille, France 
+I'm Melanie, Full Stack developer from Lille, France
 
 🔭 I fell in love with the Java universe, so I decided to deepen my learning journey to become a better developer
 
@@ -57,12 +57,9 @@ I'm Melanie, Full Stack developer from Lille, France
 
 #
 
-## Team CDA 👽
+## 👽
 
-[LUDO](https://github.com/Ludoph) | [NAHIM LE BOSS](https://github.com/Nahben) | [YASSINE](https://github.com/YassineElazzati) 
---- | --- | ---
-![Ludoph](https://avatars.githubusercontent.com/u/129503345?s=185&v=1) | ![Nahben](https://avatars.githubusercontent.com/u/23336698?s=185&v=1) | ![YassineElazzati](https://avatars.githubusercontent.com/u/131854031?s=185&v=1)
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
